@@ -1,0 +1,6 @@
+langchain
+streamlit
+faiss-cpu==1.8.0.post1
+chromadb==0.4.15
+streamlit-extras==0.4.3
+openai
